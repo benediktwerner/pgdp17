@@ -21,6 +21,9 @@ lang: de
 url: "http://home.in.tum.de" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/~wernerbe/pgdp" # the subpath of your site, e.g. /blog
 
+google_analytics: "UA-77720638-2"
+
+
 email: benedikt.werner@tum.de
 github_username: benediktwerner
 telegram_username: benediktwerner
