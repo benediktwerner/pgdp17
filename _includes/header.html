@@ -19,12 +19,16 @@
         </label>
 
         <div class="trigger">
+          {% comment%}
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.link_title | default: my_page.title | escape }}</a>
             {% endif %}
           {% endfor %}
+          {%endcomment %}
+          <a class="page-link" href="{{ /terminal-how-to.html | relative_url }}">Terminal</a>
+          <a class="page-link" href="{{ /utf-8.html | relative_url }}">UTF-8?</a>
         </div>
       </nav>
     {% endif %}
