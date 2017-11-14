@@ -10,7 +10,7 @@ ungefähr wisst was drin steht:
 
 ## Autoformatierung einrichten
 1. Lade die Datei [eclipse-java-google-style.xml](https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml)
-herunter. Die Datei und Äquivalente für andere IDEs können auch im
+herunter (`Rechtsklick -> Link speichern unter`). Die Datei und Äquivalente für andere IDEs können auch im
 [Github Repository des Google Style Guides](https://github.com/google/styleguide){:target="_blank"}
 gefunden werden.
 2. Klicke in eclipse unter `Window -> Preferences` auf `Java -> Code Style -> Formatter`,
