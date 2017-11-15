@@ -4,10 +4,8 @@ title:  "Vierte Stunde"
 date:   2017-11-14 12:00:42 +0200
 categories: pgdp stunde
 ---
-### Folien
+### Folien und Lösungen
 - [Folien der vierten Stunde](/~wernerbe/pgdp/assets/slides/pgdp-tutorium-04.pdf)
-
-### Lösungen der Programmieraufgaben
 - [Aufgabe 4.2](/~wernerbe/pgdp/assets/code/Aufgabe4_2.java)
 - [Aufgabe 4.3](/~wernerbe/pgdp/assets/code/Aufgabe4_3.java)
 - [Aufgabe 4.4](/~wernerbe/pgdp/assets/code/Aufgabe4_4.java)
