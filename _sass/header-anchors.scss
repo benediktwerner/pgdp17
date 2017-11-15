@@ -3,16 +3,17 @@
  * http://ben.balter.com/2014/03/13/pages-anchor-links/
  */
 .header-link {
-  float: left;
-  margin-left: -40px;
-  padding-right: 10px;
-/*padding-top: 5px;
-  font-size: 0.8em;*/
+  position: relative;
+  left: 0.5em;
+  bottom: 0.09em;
+  font-size: 0.8em;
   opacity: 0;
+  font-weight: bold;
 
   -webkit-transition: opacity 0.2s ease-in-out 0.1s;
   -moz-transition: opacity 0.2s ease-in-out 0.1s;
   -ms-transition: opacity 0.2s ease-in-out 0.1s;
+  transition: opacity 0.2s ease-in-out 0.1s;
 }
 
 h1:hover .header-link,
