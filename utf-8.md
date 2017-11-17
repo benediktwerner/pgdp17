@@ -12,7 +12,7 @@ besondere Symbole (z.B. Umlaute) automatisch auch ASCII-kodiert ist.
 
 ![Screenshot Notepad->Speichern unter]({{ "/assets/img/editor-save-as.png" | absolute_url }})
 
-Ganz unten steht unter `Codierung` steht die aktuelle Kodierung der Datei.
+Ganz unten steht unter `Codierung` die aktuelle Kodierung der Datei.
 **Achtung:** `Notepad` unterscheidet nicht zwischen `UTF-8` mit `BOM-Header` und ohne
 und fügt beim speichern immer einen ein.
 Zum Umwandeln der Kodierung sollte man also besser Texteditoren wie `Notepad++` verwenden.
