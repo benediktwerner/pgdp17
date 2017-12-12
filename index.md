@@ -5,6 +5,7 @@ layout: home
 - [Wie benutze ich das Terminal?](terminal-how-to)
 - [Sind meine Dateien UTF-8 kodiert?](utf-8)
 - [Wie richte ich Autoformatierung in eclipse ein?](autoformatting-eclipse)
+- [Alle Folien](/~wernerbe/pgdp/assets/slides)
 
 - [VL-Website](http://www14.informatik.tu-muenchen.de/lehre/2017WS/info1/index.html.de)
 - [Moodle](https://www.moodle.tum.de/course/view.php?id=35284)
